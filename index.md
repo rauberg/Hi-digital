@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Willkommen auf der Website der <!modellstadt!>  
 
-You can use the [editor on GitHub](https://github.com/HiU4SCHi/Hi-digital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<todo> Logos einbauen
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hier entsteht die Präsenz einer Initiative der <!modellstadt!> zur Digitalisierung.
+In den Leitlinien dazu wurde ein partizipativer Ansatz beschrieben und ausgewählt. Um dieser Leitlinie zu folgen wird das "doing" auf einem open source Ansatz aufsetzten. Damit haben alle Beteiligten die Möglichkeit sich aktive einzubringen in dem sie z.B. Dokumente oder Projektvorschläge kommentieren oder Verbsserungsvorschläge einbringen.   
+Es wird dabei dem allgemein bekannten open source Verfahren gefolgt (Contributer/Maintainer Modell).   
 
-### Markdown
+### Motivation
+In der <!modellstadt!> gibt es viele Aktivitäten die sich dem Thema Digitaliserung, Nachhaltigkeit und Teilhabe widmen. Dieses im geschäflichen als auch im Verwaltungsbereich als auch im ehrenamtlichen Bereich. Bisher gab es aber keine gemeinsame Plattform welche diese einzelnen Aktivitäten verbindet, unterstützt und weitere Aktivitäten startet.   
+Parallel haben der Unternehmerverband der <!modelstadt!> und die Verwaltung der <!modelstadt!> Aktivitäten zu starten um eine solche Plattform voranzutreiben. Mittlerweile sind diese beiden Aktivitäten zusammengeführt und werden zusammen vorangetrieben.
+tbc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### was bisher geschah
+Input required
 
-```markdown
-Syntax highlighted code block
+### Aktueller Stand
+Input required
 
-# Header 1
-## Header 2
-### Header 3
+### Stakeholder
++ Verwaltung der <!modelstadt!>
++ Rat der <!modelstadt!>
++ Verband der Unternehmer der <!modelstadt!>
++ Hochschule der <!modelstadt!>
++ Universität der <!modelstadt!>
++ Schulen der <!modelstadt!>
++ ...
++ ...
 
-- Bulleted
-- List
+### Lizenz
+CC (creative common) <- Version noch zu bestimmen
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HiU4SCHi/Hi-digital/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Fragen, Anregungen? Bitte nutzen sie die Projekt-Seite um sich zu beteiligen 🙂
