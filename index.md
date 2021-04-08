@@ -1,13 +1,12 @@
 ## Willkommen auf der Website der <!modellstadt!>  
 
-<todo> Logos einbauen\   
-
+- [ ] Logos einbauen
 
 Hier entsteht die Präsenz einer Initiative der <!modellstadt!> zur Digitalisierung.\
-In den Leitlinien dazu wurde ein partizipativer Ansatz beschrieben und ausgewählt. Um dieser Leitlinie zu folgen wird das "doing" auf einem open source Ansatz aufsetzten. Damit haben alle Beteiligten die Möglichkeit sich aktive einzubringen in dem sie z.B. Dokumente oder Projektvorschläge kommentieren oder Verbsserungsvorschläge einbringen.      \
+In den Leitlinien dazu wurde ein partizipativer Ansatz beschrieben und ausgewählt. Um dieser Leitlinie zu folgen wird das "doing" auf einem open source Ansatz aufsetzten. Damit haben alle Beteiligten die Möglichkeit sich aktive einzubringen in dem sie z.B. Dokumente oder Projektvorschläge kommentieren oder Verbsserungsvorschläge einbringen.      
 
 
-Es wird dabei dem allgemein bekannten open source Verfahren gefolgt (Contributer/Maintainer Modell).    \ 
+Es wird dabei dem allgemein bekannten open source Verfahren gefolgt (Contributer/Maintainer Modell).    \
 
 
 ### Motivation
@@ -36,8 +35,8 @@ Input required
 
 
 ### Lizenz
-CC (creative common) <- Version noch zu bestimmen
-
+CC (creative common) 
+- [ ] korrekte Version noch zu bestimmen
 
 ### Support or Contact
 Fragen, Anregungen? Bitte nutzen sie die Projekt-Seite um sich zu beteiligen 🙂
