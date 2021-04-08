@@ -1,21 +1,28 @@
 ## Willkommen auf der Website der <!modellstadt!>  
 
-<todo> Logos einbauen
+<todo> Logos einbauen   
+
 
 Hier entsteht die Präsenz einer Initiative der <!modellstadt!> zur Digitalisierung.
-In den Leitlinien dazu wurde ein partizipativer Ansatz beschrieben und ausgewählt. Um dieser Leitlinie zu folgen wird das "doing" auf einem open source Ansatz aufsetzten. Damit haben alle Beteiligten die Möglichkeit sich aktive einzubringen in dem sie z.B. Dokumente oder Projektvorschläge kommentieren oder Verbsserungsvorschläge einbringen.   
-Es wird dabei dem allgemein bekannten open source Verfahren gefolgt (Contributer/Maintainer Modell).   
+In den Leitlinien dazu wurde ein partizipativer Ansatz beschrieben und ausgewählt. Um dieser Leitlinie zu folgen wird das "doing" auf einem open source Ansatz aufsetzten. Damit haben alle Beteiligten die Möglichkeit sich aktive einzubringen in dem sie z.B. Dokumente oder Projektvorschläge kommentieren oder Verbsserungsvorschläge einbringen.      
+
+
+Es wird dabei dem allgemein bekannten open source Verfahren gefolgt (Contributer/Maintainer Modell).      
+
 
 ### Motivation
 In der <!modellstadt!> gibt es viele Aktivitäten die sich dem Thema Digitaliserung, Nachhaltigkeit und Teilhabe widmen. Dieses im geschäflichen als auch im Verwaltungsbereich als auch im ehrenamtlichen Bereich. Bisher gab es aber keine gemeinsame Plattform welche diese einzelnen Aktivitäten verbindet, unterstützt und weitere Aktivitäten startet.   
 Parallel haben der Unternehmerverband der <!modelstadt!> und die Verwaltung der <!modelstadt!> Aktivitäten zu starten um eine solche Plattform voranzutreiben. Mittlerweile sind diese beiden Aktivitäten zusammengeführt und werden zusammen vorangetrieben.
 tbc
 
+
 ### was bisher geschah
 Input required
 
+
 ### Aktueller Stand
 Input required
+
 
 ### Stakeholder
 + Verwaltung der <!modelstadt!>
@@ -26,6 +33,7 @@ Input required
 + Schulen der <!modelstadt!>
 + ...
 + ...
+
 
 ### Lizenz
 CC (creative common) <- Version noch zu bestimmen
