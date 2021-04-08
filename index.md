@@ -29,7 +29,7 @@ Input required
 + ...
 
 ### bisher gesammelter "input" (user stories)
-![Netzwerk der user stories](images/UserStoryNetwork.jpg "Netzwerk der user stories - Stand 03/2021")
+![Netzwerk der user stories](images/UserStoryNetwork.png "Netzwerk der user stories - Stand 03/2021")
 
 ### Lizenz
 CC (creative common) 
