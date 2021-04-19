@@ -1,3 +1,7 @@
+# Link zum Blog
+
+[Blog 1 vom 19.04.2021](./Blog1.md)
+
 ## Willkommen auf der Website der <!modellstadt!>  
 
 - [ ] Logos einbauen
