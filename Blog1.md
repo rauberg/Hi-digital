@@ -23,6 +23,9 @@ Für mich lässt sich das Thema Digitaliserung sehr schön in folgenden 3 Dimens
 
 
 Das lässt sich sehr schön in einem Dreieck visualisieren.     
+[](./DigiDreiEck.png)
+
+
 Zu jeder dieser Dimensionen lassen sich dann weitere Themenblöcke
 zuweisen die eine Relevanz haben, wie z.B. verschiedene Technologien, notwendige Kompetenzen oder ethische und moralische Aspekte oder auch rechtliche Aspekte.
 Für mich gehört der Mensch dabei in die Mitte dieses Dreiecks - da alles was wir "transformieren" an den Bedürfnissen der Menschen ausrichten müssen, die Nutznießer dieser Transformation sind.     
