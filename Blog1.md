@@ -16,10 +16,12 @@ Auf der anderen Seite schafft diese Vielfalt Unsicherheit bei allen Beteiligten,
 Daher sollte, wenn über Digitaliserung gesprochen wird, genau beschrieben werden über was gesprochen wird, damit allen Beteiligten die Erwartungshaltung klar ist.
 Das ist nicht immer einfach, da im allgemeinen bei den an der Diskussion beteiligten ein unterschiedliches Kompotenz-Niveau und Verständnis des Themas vorhanden ist.
 In diesem Sinne:   
-Für mich lässt sich das Thema Digitaliserung sehr schön in folgenden 3 Dimensionen darstellen.   
+Für mich lässt sich das Thema Digitaliserung sehr schön in folgenden 3 Dimensionen darstellen.      
 + Technik
 + Mensch und Gesellschaft
-+ Wirtschaft
++ Wirtschaft    
+
+
 Das lässt sich sehr schön in einem Dreieck visualisieren.   
 Zu jeder dieser Dimensionen lassen sich dann weitere Themenblöcke
 zuweisen die eine Relevanz haben, wie z.B. verschiedene Technologien, notwendige Kompetenzen oder Ethische und moralische Aspekte oder auch rechtliche Aspekte.
@@ -29,7 +31,7 @@ Das ist leider nicht immer der Fall und wird oft vernachlässigt.
 Das fängt bei der Wortwahl an - Digitalisierung lässt eine komplexe technologische Veränderung erwarten die bei vielen Beteiligten Ängste und Vorbehalte weckt.
 Dabei ist Digitalisierung nicht nur ein technologisches Thema - siehe das Dreieck.
 Ich spreche daher auch viel lieber von Hybridisierung - darunter verstehe ich das wir die heutige "analogen" Welt, zu der auch der Mensch im Mittelpunkt gehört,
-und die digitale Technik in Einklang bringen.
+und die digitale Technik in Einklang bringen.     
 Nehmen wir das Beispiel "shoppen" eines Buches - wenn ich es heute schnell und einfach haben möchte bestelle ich mir 
 abends vom Sofa aus einfach und schnell mein bevorzugtes Produkt im Internet da ich wenig Zeit habe.    
 Auf der anderen Seite möchte ich aber auch die Möglichkeit haben eine reine
