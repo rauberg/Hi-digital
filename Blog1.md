@@ -23,7 +23,7 @@ Für mich lässt sich das Thema Digitaliserung sehr schön in folgenden 3 Dimens
 
 
 Das lässt sich sehr schön in einem Dreieck visualisieren.     
-[](./DigiDreiEck.png)
+![Einflußfaktoren auf die Digitalisierung](images/DigiDreiEck.png "Einflußfaktoren auf die Digitalisierung")
 
 
 Zu jeder dieser Dimensionen lassen sich dann weitere Themenblöcke
