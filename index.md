@@ -2,6 +2,10 @@
 
 [Blog 1 vom 19.04.2021](./Blog1.md)
 
+Link zum Nachlesen und vertiefende Informationen
+
+[Zum Lesen](./ToRead.md)
+
 ## Willkommen auf der Website der <!modellstadt!>  
 
 - [ ] Logos einbauen
