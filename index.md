@@ -1,7 +1,7 @@
 ##  Link zum Blog
 
 [Blog 1 vom 19.04.2021](./Blog1.md)      
-[Blog 1 vom xx.04.2021](./Blog2.md)
+[Blog 2 vom xx.04.2021](./Blog2.md)
 
 ## Link zum Nachlesen und vertiefende Informationen
 
