@@ -37,7 +37,8 @@ und die digitale Technik in Einklang bringen.
 Nehmen wir das Beispiel "shoppen" eines Buches - wenn ich es heute schnell und einfach haben möchte bestelle ich mir 
 abends vom Sofa aus einfach und schnell mein bevorzugtes Produkt im Internet da ich wenig Zeit habe.    
 Auf der anderen Seite möchte ich aber auch die Möglichkeit haben eine reine
-"analoge" Einkaufserfahrung zu genießen. Darunter verstehe ich, das ich in den Buchladen meiner Wahl gehen kann und dort im Bücherstapel stöbern kann, die Haptik genießen und schon mal im Buch blättern kann und gleich noch von meinem Buchhändler akutelle Empfehlungen bekomme.    
+"analoge" Einkaufserfahrung zu genießen. Darunter verstehe ich, das ich in den Buchladen meiner Wahl gehen kann und dort im Bücherstapel stöbern kann, die Haptik genießen und schon mal im Buch blättern kann und gleich noch von meinem Buchhändler aktuelle Empfehlungen bekomme.    
+Wie kann ich nun mit einer Transformation diese beiden Erwartungshaltungen zusammenbringen? was kann/muß der Buchhändler verändern um diesen beiden Erwartungshaltungen gerecht zu werden und weiterhin ein marktfähiges und konkurenzfähiges Produkt oder Dienstleistung anbieten zu können?
 Was sind ihre Lieblingsanwendungsfälle für eine solche "Hybridisierung"?    
 Trifft "Hybridisierung" diese Transformation besser?    
 Wie stehen Sie dazu?    
