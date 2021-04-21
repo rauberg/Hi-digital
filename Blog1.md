@@ -43,7 +43,7 @@ Was sind ihre Lieblingsanwendungsfälle für eine solche "Hybridisierung"?
 Trifft "Hybridisierung" diese Transformation besser?    
 Wie stehen Sie dazu?    
 Diskutieren Sie mit mir und teilen Sie Ihre Erfahrungen und Ihr wissen mit der "Community".   
-Ich freue mich auf spannenden "Input"     
+Ich freue mich auf spannenden "Input".     
 
 Karl Rauterberg
 
