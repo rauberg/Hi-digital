@@ -2,7 +2,7 @@
 
 Im folgenden findet sich eine Linksammlung zum Nachlesen und vertiefen. Dabei befinden sich die neuesten Einträge an oberster Position.     
 
-Leider immer noch und immer wieder nötig .... auch im "Digitalen" ist Gleichberechtigung oder besser "Diversity" ein Thema:
+Leider immer noch und immer wieder nötig .... auch im "Digitalen" ist Gleichberechtigung oder besser "Diversity" ein Thema:      
 [21.04.2021 Frauen und Technik - zusammen stark](https://blog.oecd-berlin.de/frauen-und-technik-zusammen-stark)      
 
 Interessante Analyse der Bitkom zum Thema Data Analytics and Optimization" mit guten Beispielen:      
