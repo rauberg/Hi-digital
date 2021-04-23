@@ -1,6 +1,6 @@
 # Karl's Blog #1 : Digitalisierung. Ja? Nein? Vielleicht?
 
-## Über den Author und Motivation für diesen Blog
+## Über den Autor und Motivation für diesen Blog
 Mein Name ist Karl Rauterberg und ich beschäftige mich seit 40 Jahren mit dem Computer - sowohl beruflich als auch privat.
 Ich hatte das Glück die technologische Entwicklung mehr als 40 Jahre lang zu begleiten. 
 Das erforderte ein ständiges Erlernen und Anpassen an die neuen Technolgien um erfolgreich in der Produktentwicklung zu überleben. 
